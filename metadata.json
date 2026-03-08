@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SuperStock - Inventário Ágil",
+  "description": "Aplicativo de inventário para supermercados com suporte a pesagem, contagem por unidades e geração de relatórios PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
